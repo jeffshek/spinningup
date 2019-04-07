@@ -75,7 +75,7 @@ e. Policy Gradients with Action-Dependent Baselines
 
 .. [#] `Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic <https://arxiv.org/abs/1611.02247>`_, Gu et al, 2016. **Algorithm: Q-Prop.**
 
-.. [#] `Action-depedent Control Variates for Policy Optimization via Stein's Identity <https://arxiv.org/abs/1710.11198>`_, Liu et al, 2017. **Algorithm: Stein Control Variates.**
+.. [#] `Action-dependent Control Variates for Policy Optimization via Stein's Identity <https://arxiv.org/abs/1710.11198>`_, Liu et al, 2017. **Algorithm: Stein Control Variates.**
 
 .. [#] `The Mirage of Action-Dependent Baselines in Reinforcement Learning <https://arxiv.org/abs/1802.10031>`_, Tucker et al, 2018. **Contribution:** interestingly, critiques and reevaluates claims from earlier papers (including Q-Prop and stein control variates) and finds important methodological errors in them.
 
